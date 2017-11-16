@@ -15,6 +15,9 @@
 
 1. [Everledger](www.everledger.io) - trade diamonds on blockchain
 1. [Corda](https://www.r3.com/) - automated financial markets from R3 consortium
+1. [Akasha](https://akasha.world/) - publish content over the Ethereum network
+1. [7 Dapps by Coindesk](https://www.coindesk.com/7-cool-decentralized-apps-built-ethereum/)
+
 
 ## Questions
 
@@ -24,6 +27,9 @@
 
 1. [Week in Ethereum](http://www.weekinethereum.com/) weekly newsletter with updates
 2. [Coindesk](https://www.coindesk.com/)
+3. [Gas price](https://docs.google.com/spreadsheets/d/1m89CVujrQe5LAFJ8-YAUCcNK950dUzMQPMJBxRtGCqs/edit#gid=0)
+4. [Gas price chart](https://etherscan.io/chart/gasprice)
+5. [Etherscan](https://etherscan.io/) - block explorer
 
 [1]: https://www.safaribooksonline.com/library/view/mastering-bitcoin-2nd/9781491954379/
 [2]: https://bitzuma.com/owning-bitcoin/
