@@ -11,6 +11,20 @@
 
 ---
 
+## Projects
+
+1. [Everledger](www.everledger.io) - trade diamonds on blockchain
+1. [Corda](https://www.r3.com/) - automated financial markets from R3 consortium
+
+## Questions
+
+1. Are there snapshots on blockchain?
+
+## Info sites
+
+1. [Week in Ethereum](http://www.weekinethereum.com/) weekly newsletter with updates
+2. [Coindesk](https://www.coindesk.com/)
+
 [1]: https://www.safaribooksonline.com/library/view/mastering-bitcoin-2nd/9781491954379/
 [2]: https://bitzuma.com/owning-bitcoin/
 [3]: https://blankslate.io/?note=48627
